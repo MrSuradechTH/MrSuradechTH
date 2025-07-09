@@ -2,6 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&color=000FFF&center=true&vCenter=true&width=435&lines=Knowledge+is+the+most+valuable.;Never+stop+learning.;You+can+achieve+anything." alt="Typing SVG" />
   </a>
+  <br/>
   <img
     src="https://streak-stats.demolab.com?user=MrSuradechTH&theme=dark&border_radius=15"
     alt="GitHub Streak"
