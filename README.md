@@ -44,8 +44,7 @@
     alt="Profile Details"
     height="300"
   />
-  <br/><br/><br/>
-  <br/><br/><br/>
+  <br/>
   <img 
     src="https://raw.githubusercontent.com/MrSuradechTH/MrSuradechTH/snk/github-snake-dark.svg#gh-dark-mode-only" 
     alt="GitHub Snake Dark" 
