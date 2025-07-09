@@ -10,12 +10,12 @@
     <img
       src="https://streak-stats.demolab.com?user=MrSuradechTH&theme=dark&border_radius=15"
       alt="GitHub Streak"
-      style="height: 250px; object-fit: contain;"
+      style="height: 200px; object-fit: contain;"
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSuradechTH&size_weight=0.5&count_weight=0.5&theme=dark"
       alt="Top Langs"
-      style="height: 250px; object-fit: contain;"
+      style="height: 200px; object-fit: contain;"
     />
   </div>
 
