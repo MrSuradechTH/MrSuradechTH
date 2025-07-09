@@ -38,7 +38,11 @@
     height="150"
     style="vertical-align: middle;
   />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark" alt="Profile Details" height="150" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark"
+    alt="Profile Details"
+    height="150"
+  />
   <img 
     src="https://raw.githubusercontent.com/MrSuradechTH/MrSuradechTH/snk/github-snake-dark.svg#gh-dark-mode-only" 
     alt="GitHub Snake Dark" 
