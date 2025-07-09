@@ -7,7 +7,7 @@
     src="https://streak-stats.demolab.com?user=MrSuradechTH&theme=dark&hide_border=true"
     alt="GitHub Streak"
     height="150"
-    width="300"
+    width="500"
     style="vertical-align: middle;"
   />
   <img
@@ -19,7 +19,7 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSuradechTH&theme=dark"
     alt="Repos Per Language"
     height="150"
-    width="300"
+    width="500"
     style="vertical-align: middle;"
   />
   <br/><br/>
@@ -33,7 +33,7 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark"
     alt="Profile Details"
-    height="500"
+    height="300"
     width="800"
   />
   <br/>
@@ -41,7 +41,7 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSuradechTH&theme=dark"
     alt="Stats"
     height="200"
-    width="300"
+    width="500"
     style="vertical-align: middle;"
   />
   <img
@@ -53,7 +53,7 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=7"
     alt="Productive Time"
     height="200"
-    width="300"
+    width="500"
     style="vertical-align: middle;"
   />
   <br/>
