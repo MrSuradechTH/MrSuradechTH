@@ -15,7 +15,7 @@
     style="display: inline-block;"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSuradechTH&theme=dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSuradechTH&theme=dark&border_radius=15"
     alt="Repos Per Language"
     height="150"
     style="vertical-align: middle;"
@@ -29,13 +29,13 @@
   />
   <br/>
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark&border_radius=15"
     alt="Profile Details"
     height="500"
   />
   <br/>
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSuradechTH&theme=dark"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSuradechTH&theme=dark&border_radius=15"
     alt="Stats"
     height="200"
     style="vertical-align: middle;"
@@ -46,7 +46,7 @@
     style="display: inline-block;"
   />
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=7"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=7&border_radius=15"
     alt="Productive Time"
     height="200"
     style="vertical-align: middle;"
