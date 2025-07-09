@@ -4,7 +4,7 @@
   </a>
   <br/><br/>
   <img
-    src="https://streak-stats.demolab.com?user=MrSuradechTH&theme=dark"
+    src="https://streak-stats.demolab.com?user=MrSuradechTH&theme=dark&hide_border=true"
     alt="GitHub Streak"
     height="150"
     style="vertical-align: middle;"
