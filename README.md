@@ -31,19 +31,21 @@
     alt=""
     style="display: inline-block;"
   />
-  <br/><br/><br/>
-  <br/><br/><br/>
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=8"
     alt="Productive Time"
     height="150"
     style="vertical-align: middle;
   />
+    <br/><br/><br/>
+  <br/><br/><br/>
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark"
     alt="Profile Details"
     height="150"
   />
+  <br/><br/><br/>
+  <br/><br/><br/>
   <img 
     src="https://raw.githubusercontent.com/MrSuradechTH/MrSuradechTH/snk/github-snake-dark.svg#gh-dark-mode-only" 
     alt="GitHub Snake Dark" 
