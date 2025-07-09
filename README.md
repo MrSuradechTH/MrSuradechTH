@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSuradechTH&size_weight=0.5&count_weight=0.5&theme=dark)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/MrSuradechTH/snk/main/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/MrSuradechTH/MrSuradechTH/snk/github-snake-dark.svg#gh-dark-mode-only)
 
 ## 🔥 Highlight Skill
 ![Highlight Skill](https://skillicons.dev/icons?i=arduino,cloudflare,cpp,dart,docker,flutter,git,github,mysql,postman,vscode&theme=dark)
