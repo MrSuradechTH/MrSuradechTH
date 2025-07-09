@@ -28,7 +28,7 @@
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/MrSuradechTH/MrSuradechTH/snk/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" width="600" />
+  <img src="https://raw.githubusercontent.com/MrSuradechTH/MrSuradechTH/snk/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" height="200" hight />
 
   <br/><br/>
 
