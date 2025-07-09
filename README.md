@@ -25,63 +25,302 @@
   <br/>
   <img src="https://u8views.com/api/v1/github/profiles/53972303/views/day-week-month-total-count.svg" alt="Profile Views" />
   <br/>
-  <h1 style="font-weight: bold;">🔥 Highlight Skills</h3>
-  <img 
-    src="https://skillicons.dev/icons?i=arduino,cloudflare,cpp,dart,docker,flutter,git,github,mysql,postman,vscode&theme=dark" 
-    alt="Highlight Skills" 
-  />
+  <h1 style="font-weight: bold;">🔥 Highlight Skills</h1>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+        <br/>Arduino
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" />
+        <br/>Cloudflare
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+        <br/>C++
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" />
+        <br/>Dart
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
+        <br/>Docker
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" />
+        <br/>Flutter
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+        <br/>Git
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+        <br/>GitHub
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+        <br/>MySQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" />
+        <br/>Postman
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
+        <br/>VS Code
+      </td>
+    </tr>
+  </table>
+  
   <br/>
-  <h1 style="font-weight: bold;">🛠️ All Skills</h3>
+  <h1 style="font-weight: bold;">🛠️ All Skills</h1>
   <h4>🖥️ Programming Languages</h4>
-  <img 
-    src="https://skillicons.dev/icons?i=c,cpp,cs,css,dart,dotnet,go,html,java,js,php&theme=dark" 
-    alt="Programming Languages" 
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />
+        <br/>C
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+        <br/>C++
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" />
+        <br/>C#
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" />
+        <br/>CSS
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" />
+        <br/>Dart
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" />
+        <br/>.NET
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" />
+        <br/>Go
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" />
+        <br/>HTML
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+        <br/>Java
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+        <br/>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" />
+        <br/>PHP
+      </td>
+    </tr>
+  </table>
+  
   <h4>🚀 Frameworks & Libraries</h4>
-  <img 
-    src="https://skillicons.dev/icons?i=flutter,nestjs,nextjs,nodejs,react,vue&theme=dark" 
-    alt="Frameworks & Libraries" 
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" />
+        <br/>Flutter
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" />
+        <br/>NestJS
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />
+        <br/>Next.js
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
+        <br/>Node.js
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+        <br/>React
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" />
+        <br/>Vue
+      </td>
+    </tr>
+  </table>
+  
   <h4>🛠️ Development Tools & IDEs</h4>
-  <img 
-    src="https://skillicons.dev/icons?i=arduino,visualstudio,vite,vscode&theme=dark" 
-    alt="Development Tools & IDEs" 
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+        <br/>Arduino
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio" />
+        <br/>Visual Studio
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" />
+        <br/>Vite
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
+        <br/>VS Code
+      </td>
+    </tr>
+  </table>
+  
   <h4>☁️ Cloud & DevOps</h4>
-  <img 
-    src="https://skillicons.dev/icons?i=cloudflare,docker,firebase,gcp,nginx&theme=dark" 
-    alt="Cloud & DevOps" 
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" />
+        <br/>Cloudflare
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
+        <br/>Docker
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" />
+        <br/>Firebase
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" />
+        <br/>GCP
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" />
+        <br/>Nginx
+      </td>
+    </tr>
+  </table>
+  
   <h4>🗄️ Databases</h4>
-  <img 
-    src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" 
-    alt="Databases" 
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
+        <br/>MongoDB
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+        <br/>MySQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
+        <br/>PostgreSQL
+      </td>
+    </tr>
+  </table>
+  
   <h4>🔧 Package Managers & Build Tools</h4>
-  <img 
-    src="https://skillicons.dev/icons?i=gradle,npm,yarn&theme=dark" 
-    alt="Package Managers & Build Tools" 
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=gradle&theme=dark" alt="Gradle" />
+        <br/>Gradle
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="NPM" />
+        <br/>NPM
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=yarn&theme=dark" alt="Yarn" />
+        <br/>Yarn
+      </td>
+    </tr>
+  </table>
+  
   <h4>🐧 Operating Systems</h4>
-  <img 
-    src="https://skillicons.dev/icons?i=debian,kali,linux,ubuntu,windows&theme=dark" 
-    alt="Operating Systems" 
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=debian&theme=dark" alt="Debian" />
+        <br/>Debian
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="Kali Linux" />
+        <br/>Kali Linux
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" />
+        <br/>Linux
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" />
+        <br/>Ubuntu
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" />
+        <br/>Windows
+      </td>
+    </tr>
+  </table>
+  
   <h4>🧪 Testing & Automation</h4>
-  <img 
-    src="https://skillicons.dev/icons?i=postman,selenium&theme=dark" 
-    alt="Testing & Automation" 
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" />
+        <br/>Postman
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium" />
+        <br/>Selenium
+      </td>
+    </tr>
+  </table>
+  
   <h4>📊 Data Science & AI</h4>
-  <img 
-    src="https://skillicons.dev/icons?i=anaconda,opencv,sklearn&theme=dark" 
-    alt="Data Science & AI" 
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda" />
+        <br/>Anaconda
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" />
+        <br/>OpenCV
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" />
+        <br/>Scikit-learn
+      </td>
+    </tr>
+  </table>
+  
   <h4>🔍 Version Control & Tools</h4>
-  <img 
-    src="https://skillicons.dev/icons?i=git,github,powershell,regex&theme=dark" 
-    alt="Version Control & Tools" 
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+        <br/>Git
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+        <br/>GitHub
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell" />
+        <br/>PowerShell
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=regex&theme=dark" alt="Regex" />
+        <br/>Regex
+      </td>
+    </tr>
+  </table>
+  
   <h4>🎨 Design & Social Platforms</h4>
   <table>
     <tr>
