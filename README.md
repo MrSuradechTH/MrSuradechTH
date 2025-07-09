@@ -21,6 +21,20 @@
     style="vertical-align: middle;"
   />
   <br/>
+  <img 
+    src="https://raw.githubusercontent.com/MrSuradechTH/MrSuradechTH/snk/github-snake-dark.svg#gh-dark-mode-only" 
+    alt="GitHub Snake Dark" 
+    height="200" 
+  />
+  <br/>
+  <img src="https://u8views.com/api/v1/github/profiles/53972303/views/day-week-month-total-count.svg" alt="Profile Views" />
+  <br/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark"
+    alt="Profile Details"
+    height="500"
+  />
+  <br/>
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSuradechTH&theme=dark"
     alt="Stats"
@@ -38,20 +52,6 @@
     height="200"
     style="vertical-align: middle;"
   />
-  <br/>
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark"
-    alt="Profile Details"
-    height="300"
-  />
-  <br/>
-  <img 
-    src="https://raw.githubusercontent.com/MrSuradechTH/MrSuradechTH/snk/github-snake-dark.svg#gh-dark-mode-only" 
-    alt="GitHub Snake Dark" 
-    height="200" 
-  />
-  <br/>
-  <img src="https://u8views.com/api/v1/github/profiles/53972303/views/day-week-month-total-count.svg" alt="Profile Views" />
   <br/>
   <h1 style="font-weight: bold;">🔥 Highlight Skills</h1>
   <table>
