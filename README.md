@@ -77,7 +77,7 @@
   
   <br/>
   <h1 style="font-weight: bold;">🛠️ All Skills</h1>
-  <h4>🖥️ Programming Languages</h4>
+  <h2>🖥️ Programming Languages</h2>
   <table>
     <tr>
       <td align="center">
@@ -127,7 +127,7 @@
     </tr>
   </table>
   
-  <h4>🚀 Frameworks & Libraries</h4>
+  <h2>🚀 Frameworks & Libraries</h2>
   <table>
     <tr>
       <td align="center">
@@ -157,7 +157,7 @@
     </tr>
   </table>
   
-  <h4>🛠️ Development Tools & IDEs</h4>
+  <h2>🛠️ Development Tools & IDEs</h2>
   <table>
     <tr>
       <td align="center">
@@ -179,7 +179,7 @@
     </tr>
   </table>
   
-  <h4>☁️ Cloud & DevOps</h4>
+  <h2>☁️ Cloud & DevOps</h2>
   <table>
     <tr>
       <td align="center">
@@ -205,7 +205,7 @@
     </tr>
   </table>
   
-  <h4>🗄️ Databases</h4>
+  <h2>🗄️ Databases</h2>
   <table>
     <tr>
       <td align="center">
@@ -223,7 +223,7 @@
     </tr>
   </table>
   
-  <h4>🔧 Package Managers & Build Tools</h4>
+  <h2>🔧 Package Managers & Build Tools</h2>
   <table>
     <tr>
       <td align="center">
@@ -241,7 +241,7 @@
     </tr>
   </table>
   
-  <h4>🐧 Operating Systems</h4>
+  <h2>🐧 Operating Systems</h2>
   <table>
     <tr>
       <td align="center">
@@ -267,7 +267,7 @@
     </tr>
   </table>
   
-  <h4>🧪 Testing & Automation</h4>
+  <h2>🧪 Testing & Automation</h2>
   <table>
     <tr>
       <td align="center">
@@ -281,7 +281,7 @@
     </tr>
   </table>
   
-  <h4>📊 Data Science & AI</h4>
+  <h2>📊 Data Science & AI</h2>
   <table>
     <tr>
       <td align="center">
@@ -299,7 +299,7 @@
     </tr>
   </table>
   
-  <h4>🔍 Version Control & Tools</h4>
+  <h2>🔍 Version Control & Tools</h2>
   <table>
     <tr>
       <td align="center">
@@ -321,7 +321,7 @@
     </tr>
   </table>
   
-  <h4>🎨 Design & Social Platforms</h4>
+  <h2>🎨 Design & Social Platforms</h2>
   <table>
     <tr>
       <td align="center">
@@ -339,7 +339,7 @@
     </tr>
   </table>
   
-  <h4>🎮 Game Development</h4>
+  <h2>🎮 Game Development</h2>
   <table>
     <tr>
       <td align="center">
@@ -349,7 +349,7 @@
     </tr>
   </table>
   
-  <h4>🔧 Hardware</h4>
+  <h2>🔧 Hardware</h2>
   <table>
     <tr>
       <td align="center">
