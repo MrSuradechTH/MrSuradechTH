@@ -20,7 +20,6 @@
     height="200"
     style="vertical-align: middle;"
   />
-  <br/><br/>
   <img src="https://u8views.com/api/v1/github/profiles/53972303/views/day-week-month-total-count.svg" alt="Profile Views" />
   <br/><br/>
   <img 
