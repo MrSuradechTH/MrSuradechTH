@@ -83,28 +83,40 @@
     alt="Version Control & Tools" 
   />
   <h4>🎨 Design & Social Platforms</h4>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=codepen&theme=dark" alt="CodePen" />
-    <br/><small>CodePen</small>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
-    <br/><small>Discord</small>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
-    <br/><small>Figma</small>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=codepen&theme=dark" alt="CodePen" />
+        <br/>CodePen
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
+        <br/>Discord
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+        <br/>Figma
+      </td>
+    </tr>
+  </table>
   
   <h4>🎮 Game Development</h4>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" />
-    <br/><small>Unity</small>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" />
+        <br/>Unity
+      </td>
+    </tr>
+  </table>
   
   <h4>🔧 Hardware</h4>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" />
-    <br/><small>Raspberry Pi</small>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" />
+        <br/>Raspberry Pi
+      </td>
+    </tr>
+  </table>
 </div>
