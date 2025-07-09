@@ -6,7 +6,7 @@
   <img
     src="https://streak-stats.demolab.com?user=MrSuradechTH&theme=dark&hide_border=true"
     alt="GitHub Streak"
-    height="150"
+    height="250"
     width="400"
     style="vertical-align: middle;"
   />
@@ -18,7 +18,7 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSuradechTH&theme=dark"
     alt="Repos Per Language"
-    height="150"
+    height="250"
     width="400"
     style="vertical-align: middle;"
   />
