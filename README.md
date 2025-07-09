@@ -15,10 +15,10 @@
     style="display: inline-block;"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSuradechTH&theme=dark&border_radius=15"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSuradechTH&theme=dark"
     alt="Repos Per Language"
     height="150"
-    style="vertical-align: middle;"
+    style="vertical-align: middle; border-radius: 15px;"
   />
   <br/><br/>
   <img src="https://u8views.com/api/v1/github/profiles/53972303/views/day-week-month-total-count.svg" alt="Profile Views" />
@@ -29,16 +29,17 @@
   />
   <br/>
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark&border_radius=15"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark"
     alt="Profile Details"
     height="500"
+    style="border-radius: 15px;"
   />
   <br/>
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSuradechTH&theme=dark&border_radius=15"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSuradechTH&theme=dark"
     alt="Stats"
     height="200"
-    style="vertical-align: middle;"
+    style="vertical-align: middle; border-radius: 15px;"
   />
   <img
     src="https://dummyimage.com/50x1/000000/000000&text=."
@@ -46,10 +47,10 @@
     style="display: inline-block;"
   />
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=7&border_radius=15"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=7"
     alt="Productive Time"
     height="200"
-    style="vertical-align: middle;"
+    style="vertical-align: middle; border-radius: 15px;"
   />
   <br/>
   <h1 style="font-weight: bold;">🔥 Highlight Skills</h1>
