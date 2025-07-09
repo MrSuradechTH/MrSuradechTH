@@ -20,6 +20,7 @@
     height="200"
     style="vertical-align: middle;"
   />
+  <br/>
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSuradechTH&theme=dark"
     alt="Stats"
@@ -34,13 +35,14 @@
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=8"
     alt="Productive Time"
-    height="150"
+    height="200"
     style="vertical-align: middle;"
   />
+  <br/>
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark"
     alt="Profile Details"
-    height="150"
+    height="300"
   />
   <br/><br/><br/>
   <br/><br/><br/>
