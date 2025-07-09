@@ -1,9 +1,8 @@
 <div align="center">
 
   <h3 style="font-weight: bold;"> Profile Visit Count 👀 <h3>
-
   <img src="https://u8views.com/api/v1/github/profiles/53972303/views/day-week-month-total-count.svg" alt="Profile Views" />
-  <br/>
+  <br/><br/>
   <img
     src="https://streak-stats.demolab.com?user=MrSuradechTH&theme=dark&border_radius=15"
     alt="GitHub Streak"
