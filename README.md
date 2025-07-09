@@ -18,29 +18,27 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSuradechTH&theme=dark"
     alt="Repos Per Language"
     height="150"
-    style="vertical-align: middle; border: 2px solid white; border-radius: 10px;"
+    style="vertical-align: middle;"
   />
   <br/><br/>
-  <img src="https://u8views.com/api/v1/github/profiles/53972303/views/day-week-month-total-count.svg" alt="Profile Views" style="border: 2px solid white; border-radius: 10px;" />
+  <img src="https://u8views.com/api/v1/github/profiles/53972303/views/day-week-month-total-count.svg" alt="Profile Views" />
   <img 
     src="https://raw.githubusercontent.com/MrSuradechTH/MrSuradechTH/snk/github-snake-dark.svg#gh-dark-mode-only" 
     alt="GitHub Snake Dark" 
-    height="200"
-    style="border: 2px solid white; border-radius: 10px;"
+    height="200" 
   />
   <br/>
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark"
     alt="Profile Details"
     height="500"
-    style="border: 2px solid white; border-radius: 10px;"
   />
   <br/>
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSuradechTH&theme=dark"
     alt="Stats"
     height="200"
-    style="vertical-align: middle; border: 2px solid white; border-radius: 10px;"
+    style="vertical-align: middle;"
   />
   <img
     src="https://dummyimage.com/50x1/000000/000000&text=."
@@ -51,7 +49,7 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=7"
     alt="Productive Time"
     height="200"
-    style="vertical-align: middle; border: 2px solid white; border-radius: 10px;"
+    style="vertical-align: middle;"
   />
   <br/>
   <h1 style="font-weight: bold;">🔥 Highlight Skills</h1>
