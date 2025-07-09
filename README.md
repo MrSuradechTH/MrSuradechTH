@@ -47,7 +47,7 @@
     style="display: inline-block;"
   />
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=8"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=7"
     alt="Productive Time"
     height="200"
     style="vertical-align: middle;"
