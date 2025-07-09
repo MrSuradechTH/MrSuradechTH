@@ -15,8 +15,8 @@
     style="display: inline-block;"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSuradechTH&size_weight=0.5&count_weight=0.5&theme=dark"
-    alt="Top Langs"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSuradechTH&theme=dark"
+    alt="Repos Per Language"
     height="200"
     style="vertical-align: middle;"
   />
