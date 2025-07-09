@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://u8views.com/api/v1/github/profiles/53972303/views/day-week-month-total-count.svg" alt="Profile Views" />
-  <br/>
   <img
     src="https://streak-stats.demolab.com?user=MrSuradechTH&theme=dark&border_radius=15"
     alt="GitHub Streak"
@@ -25,13 +23,15 @@
     height="200" 
   />
   <br/>
-  <h3>🔥 Highlight Skills</h3>
+  <img src="https://u8views.com/api/v1/github/profiles/53972303/views/day-week-month-total-count.svg" alt="Profile Views" />
+  <br/>
+  <h1 style="font-weight: bold;">🔥 Highlight Skills</h3>
   <img 
     src="https://skillicons.dev/icons?i=arduino,cloudflare,cpp,dart,docker,flutter,git,github,mysql,postman,vscode&theme=dark" 
     alt="Highlight Skills" 
   />
   <br/>
-  <h3>🛠️ All Skills</h3>
+  <h1 style="font-weight: bold;">🛠️ All Skills</h3>
 
 <h4>🖥️ Programming Languages</h4>
 <img 
