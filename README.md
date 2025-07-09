@@ -32,6 +32,7 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark"
     alt="Profile Details"
     height="500"
+    width="1000"
   />
   <br/>
   <img
