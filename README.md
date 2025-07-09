@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=55&duration=4000&color=000FFF&center=true&vCenter=true&width=900&lines=Knowledge+is+the+most+valuable.;Never+stop+learning.;You+can+achieve+anything." alt="Typing SVG" />
   </a>
-  <br/>
+  <br/><br/>
   <img
     src="https://streak-stats.demolab.com?user=MrSuradechTH&theme=dark&border_radius=15"
     alt="GitHub Streak"
@@ -21,6 +21,24 @@
     style="vertical-align: middle;"
   />
   <br/>
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSuradechTH&theme=dark"
+    alt="Stats"
+    height="200"
+    style="vertical-align: middle;
+  />
+  <img
+    src="https://dummyimage.com/50x1/000000/000000&text=."
+    alt=""
+    style="display: inline-block;"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=8"
+    alt="Productive Time"
+    height="150"
+    style="vertical-align: middle;
+  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSuradechTH&theme=dark" alt="Profile Details" height="150" />
   <img 
     src="https://raw.githubusercontent.com/MrSuradechTH/MrSuradechTH/snk/github-snake-dark.svg#gh-dark-mode-only" 
     alt="GitHub Snake Dark" 
