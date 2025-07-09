@@ -6,16 +6,23 @@
 
   <br/><br/>
 
-  <div style="display: flex; justify-content: center; align-items: center;">
+ <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=MrSuradechTH&theme=dark&border_radius=15"
     alt="GitHub Streak"
-    style="height: 200px; object-fit: contain; margin-right: 500px;"
+    height="200"
+    style="vertical-align: middle;"
+  />
+  <img
+    src="https://dummyimage.com/50x1/000000/000000&text=."
+    alt=""
+    style="display: inline-block;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSuradechTH&size_weight=0.5&count_weight=0.5&theme=dark"
     alt="Top Langs"
-    style="height: 200px; object-fit: contain;"
+    height="200"
+    style="vertical-align: middle;"
   />
 </div>
 
