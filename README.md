@@ -19,7 +19,7 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSuradechTH&theme=dark"
     alt="Repos Per Language"
     height="200"
-    width="400"
+    width="300"
     style="vertical-align: middle;"
   />
   <br/><br/>
