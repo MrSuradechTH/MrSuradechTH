@@ -18,7 +18,7 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSuradechTH&theme=dark"
     alt="Repos Per Language"
-    height="250"
+    height="200"
     width="400"
     style="vertical-align: middle;"
   />
@@ -41,7 +41,7 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSuradechTH&theme=dark"
     alt="Stats"
     height="200"
-    width="400"
+    width="200"
     style="vertical-align: middle;"
   />
   <img
@@ -53,7 +53,7 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSuradechTH&theme=dark&utcOffset=7"
     alt="Productive Time"
     height="200"
-    width="400"
+    width="200"
     style="vertical-align: middle;"
   />
   <br/>
